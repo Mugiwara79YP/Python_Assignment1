@@ -60,7 +60,7 @@ print("The remainder of a and b is:", res1)
 #Q7
 
 a=200
-b=13
+b=14
 res=a*b
 print("The product of a and b is:", res)
 
