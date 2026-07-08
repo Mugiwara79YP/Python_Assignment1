@@ -11,6 +11,8 @@ Sample Input
 2 5 
 Sample Output 
 7 
+
+
 Q2. Find if the conditions are obeyed or not? 
 You are given two number first as A� and second as B� and check if both conditions 
 (A<10�<10 and A>B�>�) are satisfied or not with the help of operators. 
@@ -26,6 +28,8 @@ Sample Input
 5 3 
 Sample Output 
 True 
+
+
 Q3.Check the conditions 
 You are given two numbers A� and B�. You need to do the following checks: 
 1. 
@@ -47,6 +51,8 @@ Sample Input
 12 20 
 Sample Output 
 true 
+
+
 Q4.Find the first digit of a 4 digit number 
 You are provided a four digit number N only. Your task is to print out the first digit of that 
 number. 
@@ -62,6 +68,8 @@ Sample Input
 4567 
 Sample Output 
 4 
+
+
 Q5.Find the last digit of a 4 digit number 
 You are provided a four digit number N only. Your task is to print out the last digit of that 
 number. 
@@ -77,6 +85,8 @@ Sample Input
 4567 
 Sample Output 
 7 
+
+
 Q6.Find the remainder 
 You are provided with two numbers A� and B� where A� as divisor and B� as dividend.Your 
 task is find the remainder. 
@@ -92,6 +102,8 @@ Sample Input
 2 9 
 Sample Output 
 1 
+
+
 Q7.Multiply two Numbers 
 You are provided with two numbers A� and B�. Your task is to multiply these two numbers. 
 Note: You have to complete Multiply_two_number function. No need to take any input. 
@@ -106,6 +118,8 @@ Sample Input
 2 5 
 Sample Output 
 10 
+
+
 Q8. Marks Calculator 
 Shyam has got his marks in three subjects as A�, B�, and C� (out of 100).Write a program to 
 calculate his total marks and his average. 
